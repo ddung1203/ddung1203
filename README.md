@@ -1,5 +1,6 @@
 ### Hi there 👋
-### I'm Joongseok 
+
+[Portfolio](https://www.notion.so/4173a875e1c04768b40c722ebb915161) 
 
 <!--
 **ddung1203/ddung1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
